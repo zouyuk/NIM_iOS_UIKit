@@ -30,8 +30,7 @@ Pod::Spec.new do |s|
     os.dependency 'Toast', '~> 3.0'         
     os.dependency 'TZImagePickerController', '~> 3.4.2'  
     os.dependency 'M80AttributedLabel', '~> 1.9.9' 
-    os.dependency 'YYImage', '~> 1.0.4'
-	os.dependency 'YYImage/WebP', '~> 1.0.4'       
+          
 	      
   end
 
